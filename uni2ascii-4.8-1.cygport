@@ -1,0 +1,3 @@
+DESCRIPTION="Unicode/ASCII text converter"
+HOMEPAGE="http://billposer.org/Software/uni2ascii.html"
+SRC_URI="http://billposer.org/Software/Downloads/${P}.tar.bz2"
